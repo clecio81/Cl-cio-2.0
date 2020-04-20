@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+<img src="https://cdn.discordapp.com/attachments/696466356039581709/701875347460718612/Screenshot_2020-04-20-16-19-08.png" alt="hi" class="inline"/>
 **Bold** and _Italic_ and `Code` text
 
 [https://cdn.discordapp.com/attachments/696466356039581709/701875347460718612/Screenshot_2020-04-20-16-19-08.png](url) and ![Image](src)
